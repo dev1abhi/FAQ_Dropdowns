@@ -14,4 +14,9 @@ List<Map<String, String>> yourDataList = [
     'content':
     'Praesent vel volutpat nibh, id pellentesque lacus. DonecSed ut perspiciatis unde omnis .',
   },
+  {
+    'title': 'Q: What is the duration of the event?',
+    'content':
+    'Praesent vel volutpat nibh, id pellentesque lacus. DonecSed ut perspiciatis unde omnis .',
+  },
 ];
